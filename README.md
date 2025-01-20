@@ -91,6 +91,7 @@ npm start
 Open your browser and visit http://localhost:3000.
 
 
+
 Future Enhancements
 
 If given the opportunity, I plan to:
@@ -98,6 +99,7 @@ If given the opportunity, I plan to:
 Implement Google Maps or Mapbox for interactive address visualization.
 Optimize the performance of data fetching and state management.
 Add unit and integration tests to ensure reliability.
+
 
 
 Contact
