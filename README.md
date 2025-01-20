@@ -104,8 +104,11 @@ Contact
 Feel free to reach out for any questions or feedback:
 
 Name: Harshita Sharma
+
 Email: sharmaharshita636@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/harshita-sharma-64371a273/
+
 
 
 
