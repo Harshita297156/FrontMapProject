@@ -1,6 +1,6 @@
 # FrontMapProject
 
-Frontend Case Study Solution - Bynry Task
+Frontend Case Study Solution - Bynry Task 
 This repository contains the solution for the frontend case study provided by Bynry. The task was to create a web application using the React framework to display user profiles, provide interactive mapping, and manage profile data efficiently.
 
 Although the project includes most of the requested functionalities, due to time constraints, the integration of the Google Maps service could not be implemented. The rest of the features were designed and implemented to the best of my ability to ensure a functional and user-friendly application.
