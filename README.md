@@ -26,6 +26,7 @@ Loading indicators provide real-time feedback to users while fetching data or re
 8. Code Quality
 The project emphasizes clean and modular code for better readability and scalability.
 
+
 Unfinished Features
 The integration of Google Maps or any external map service for address visualization remains incomplete. However, placeholders and a structured approach are present, making future integration straightforward.
 
@@ -65,6 +66,9 @@ Add unit and integration tests to ensure reliability.
 Contact
 Feel free to reach out for any questions or feedback:
 
+
 Name: Harshita Sharma
+
 Email: sharmaharshita636@gmail.com
+
 LinkedIn: https://www.linkedin.com/in/harshita-sharma-64371a273/
