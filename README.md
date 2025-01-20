@@ -40,7 +40,7 @@ Installation and Usage
 To run the project locally:
 
 Clone this repository:
-git clone https://github.com/your-username/FrontMapProject.git
+git clone https://github.com/Harshita297156/FrontMapProject.git
 
 Navigate to the project directory:
 cd FrontMapProject
